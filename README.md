@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basslove28, but you can call me DJ
 - 👀 I’m interested in anything thats fun and exciting through programming while learning.
-- 🌱 I’m currently learning Python, C++ and Java..... but mainly Python. Front-End devlopment is also what I do
+- 🌱 I’m currently learning Python, C++ and Java. Front-End devlopment is also what I do
 - 💞️ I’m looking to collaborate on everthing that fun, challenging and useful.
 - 📫 How to reach me: douglas.wiggins89@gmail.com
 
